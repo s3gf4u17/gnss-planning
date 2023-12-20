@@ -1,7 +1,3 @@
-![WORLD](https://github.com/s3gf4u17/uni/blob/master/semestr-4/systemy-nawigacji-satelitarnej/gnss_planning/world.png?raw=true)
+# GNSS PLANNING
 
-![SKYPLOT](https://github.com/s3gf4u17/uni/blob/master/semestr-4/systemy-nawigacji-satelitarnej/gnss_planning/skyplot.png?raw=true)
-
-![VISIBILITY](https://github.com/s3gf4u17/uni/blob/master/semestr-4/systemy-nawigacji-satelitarnej/gnss_planning/visible.png?raw=true)
-
-![DOP](https://github.com/s3gf4u17/uni/blob/master/semestr-4/systemy-nawigacji-satelitarnej/gnss_planning/test.png?raw=true)
+This project was carried out as part of the **Satellite Navigation** class taught at Warsaw University of Technology in the summer semester 2023.
