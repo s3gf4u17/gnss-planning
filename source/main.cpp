@@ -7,8 +7,8 @@
 #define MI 3.986005*pow(10,14)
 #define OMEGA_E 7.2921151467*pow(10,-5)
 
-#include "models/models.cpp"
-#include "lib/lib.cpp"
+#include "../library/models.cpp"
+#include "../library/lib.cpp"
 
 int main(int argc, char *argv[]) {
     // parse arguments given via command line
